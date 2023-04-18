@@ -3,7 +3,21 @@
 DEBUG=express-auth:* npm start
 
 
-## cookie-session
+https://juejin.cn/post/6844904034181070861#heading-6
+## API
+
+name: xigua
+password: 123456
+### 登录 /login
+
+### 登出 /logout
+
+
+## cookie
+
+## session
+https://juejin.cn/post/6844903475378126856
+
 
 ## token
 ## jwt
